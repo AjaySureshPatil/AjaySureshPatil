@@ -18,7 +18,7 @@
 
 - 🤝 I’m looking for help with **Docker**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ajaypatil8](https://github.com/Ajaypatil8)
+- 👨‍💻 All of my projects are available at https://github.com/AjaySureshPatil
 
 - 💬 Ask me about **AWS,Docker,Kubernetes**
 
