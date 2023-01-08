@@ -6,9 +6,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=singhmohit14072002&label=Profile%20views&color=0e75b6&style=flat" alt="singhmohit14072002" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singhmohit14072002" alt="singhmohit14072002" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singhmohit14072002" alt="singhmohit14072002" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/Ajay__Patil_" target="blank"><img src="https://piunikaweb.com/wp-content/uploads/2021/04/Twitter-feature-new.png" alt="Ajay__Patil_" width="50"/></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/Ajay__Patil_" target="blank"><img src="https://piunikaweb.com/wp-content/uploads/2021/04/Twitter-feature-new.png" alt="Ajay__Patil_" width="50"/></a> </p> -->
 
 - 🔭 I’m currently working on **to learn Devops**
 
