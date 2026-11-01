@@ -69,7 +69,7 @@
 - Built responsive user interfaces using React.js.
 - Integrated frontend components with backend APIs.
 
-🍔 **Food Ordering Web Application | React.js**
+🍔 **PatilWada Food Ordering Web Application | React.js**
 
 - Developed a responsive food ordering application.
 - Implemented Redux Toolkit for state management.
